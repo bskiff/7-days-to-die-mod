@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <ModInfo>
+        <Name value="ZZZ_monkey_mods"/>
+        <Description value="Some custom settings"/>
+        <Author value="bskiff"/>
+        <Version value="A20"/>
+        <Website value=""/>
+    </ModInfo>
+</xml>

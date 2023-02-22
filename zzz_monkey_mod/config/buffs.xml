@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+    <setattribute xpath="/buffs/buff[@name='buffLegSprained']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffLegBroken']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffArmSprained']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffArmBroken']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInjuryConcussion']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffDysenteryAddCure']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInfectionAddCure']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInfection01GetBetter']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInfection02GetBetter']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInfection03GetBetter']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffDysentery01GetBetter']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffDysentery01GetBetterDiarrhea']" name="remove_on_death">true</setattribute>
+    <setattribute xpath="/buffs/buff[@name='buffInfectionMain']" name="remove_on_death">true</setattribute>
+</configs>
